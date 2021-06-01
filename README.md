@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arielvincennao
-- 🌱 I’m currently learning Java, Angular & SQL
-- 📫 How to reach me: arielvincennao@hotmail.com - vincennaoa@gmail.com
+- 🌱 I’m currently learning Java, PHP & SQL
+- 📫 How to reach me: vincennaoa@gmail.com - arielvincennao@hotmail.com
 
 <!---
 arielvincennao/arielvincennao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
