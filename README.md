@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arielvincennao
-- 🌱 I’m currently learning Java, PHP & SQL
+- 🌱 I’m currently learning JAVA, JS, PHP & SQL
 - 📫 How to reach me: vincennaoa@gmail.com - arielvincennao@hotmail.com
 
 <!---
