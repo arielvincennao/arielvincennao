@@ -1,8 +1,24 @@
-- 👋 Hi, I’m @arielvincennao
-- 🌱 I’m currently learning JAVA, JS, PHP & SQL
-- 📫 How to reach me: vincennaoa@gmail.com 
+### Hi there 👋 I'm Ariel!
 
-<!---
-arielvincennao/arielvincennao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a **curious**, **detail-oriented**, and **relentless** software developer who loves solving problems through code. I enjoy digging deep into complex challenges and transforming them into simple, elegant solutions.
+
+💡 I believe that understanding the *why* behind the code is just as important as making it work.  
+🔍 I often get "hooked" on problems — I can’t let go until I crack them.  
+🔥 I don’t give up easily, and I treat every obstacle as an opportunity to learn and grow.
+
+---
+
+### 🧰 Tech Stack
+
+- 💻 Java, JavaScript, TypeScript, HTML, CSS, PHP
+- 🌱 Spring Boot, MySQL, PostgreSQL
+- ⚛️ React, Next.js
+- 📦 Node.js (learning in progress)
+- 🕹 Unity (for game development)
+- 🌐 Git, GitHub, APIs, REST
+---
+
+### 📫 Let's connect
+
+- LinkedIn: https://www.linkedin.com/in/ariel-vincennao/
+- Email: ariel@pox.me
