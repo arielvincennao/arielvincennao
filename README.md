@@ -23,7 +23,7 @@
     </ul>
   </div>
 
-  <hr style="margin: 30px 0; width: 100%;" />
+  <hr style="margin: 30px 0; width: 100%;" align="left" />
 
   <h4>💼 Projects</h4>
 
