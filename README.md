@@ -27,32 +27,31 @@
 
 ---
 
-<div align="center" style="max-width: 600px; margin: auto;">
+<table align="center" style="max-width: 600px; width: 100%; border-collapse: collapse;">
+  <tr>
+    <td style="padding-right: 10px;">
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=arielvincennao&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" 
+        height="200" 
+        alt="GitHub Stats" />
+    </td>
+    <td>
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=arielvincennao&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" 
+        height="200" 
+        alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="padding-top: 15px;">
+      <img 
+        src="https://github-readme-streak-stats.herokuapp.com/?user=arielvincennao&theme=tokyonight&hide_border=true" 
+        width="100%" 
+        alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
-  <!-- Contenedor para las dos primeras imágenes lado a lado -->
-  <div style="display: inline-block; width: 100%; text-align: center;">
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=arielvincennao&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" 
-      height="200" 
-      style="vertical-align: top; margin-right: 4%;" 
-      alt="GitHub Stats" />
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=arielvincennao&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" 
-      height="200" 
-      style="vertical-align: top;" 
-      alt="Top Languages" />
-
-  </div>
-
-  <!-- Imagen tercera debajo -->
-  <div style="margin-top: 15px; width: 100%;">
-    <img 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=arielvincennao&theme=tokyonight&hide_border=true" 
-      width="50%" 
-      alt="GitHub Streak" />
-  </div>
-
-</div>
 
 
 
