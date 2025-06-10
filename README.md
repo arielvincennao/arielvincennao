@@ -43,7 +43,7 @@
       </td>
     </tr>
     <tr>
-      <td colspan="2" style="padding-top: 15px; border: none; text-align: center;">
+      <td colspan="2" style="padding-top: 15px; border: none; text-align: center;" align="center">
         <img 
           src="https://github-readme-streak-stats.herokuapp.com/?user=arielvincennao&theme=tokyonight&hide_border=true" 
           width="50%" 
