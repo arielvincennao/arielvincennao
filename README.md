@@ -46,7 +46,7 @@
       <td style="background-color: #0d1117; padding: 10px;">
       <img 
       src="https://github-readme-streak-stats.herokuapp.com/?user=arielvincennao&theme=tokyonight&hide_border=true" 
-      width="50%" 
+      width="100%" 
       alt="GitHub Streak" 
       style="border: 0;" />
       </td>
