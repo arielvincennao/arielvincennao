@@ -19,12 +19,13 @@ I'm a **curious**, **detail-oriented**, and **relentless** software developer wh
 ---
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arielvincennao&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arielvincennao&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arielvincennao&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arielvincennao&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" width="70%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arielvincennao&theme=tokyonight&hide_border=true" />
 </p>
+
 
 ---
 ### 📫 Let's connect
