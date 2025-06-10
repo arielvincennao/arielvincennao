@@ -45,3 +45,4 @@ I'm a **curious**, **detail-oriented**, and **relentless** software developer wh
 
 - [LinkedIn](https://www.linkedin.com/in/ariel-vincennao/)  
 - Email: ariel@pox.me — vincennaoa@gmail.com
+
