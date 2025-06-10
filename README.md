@@ -45,7 +45,7 @@
     <tr>
       <img 
       src="https://github-readme-streak-stats.herokuapp.com/?user=arielvincennao&theme=tokyonight&hide_border=true" 
-      width="100%" 
+      width="50%" 
       alt="GitHub Streak" 
       style="border: 0;" />
     </tr>
