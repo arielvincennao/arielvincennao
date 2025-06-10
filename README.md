@@ -33,6 +33,7 @@
         🔗 <strong><a href="https://github.com/arielvincennao/weather-app" target="_blank">Weather App</a></strong><br>
         A web application for checking the current weather for any city in the world. Developed with Next.js and Tailwind.
       </li>
+      <br>
       <li>
         🔗 <strong><a href="https://github.com/arielvincennao/js-password-gen" target="_blank">JS Password Generator</a></strong><br>
         This is a Password Generator project developed using HTML, CSS, and JavaScript. It allows users to create secure and customized passwords based on their specifications.
