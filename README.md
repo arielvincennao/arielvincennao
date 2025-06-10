@@ -17,7 +17,13 @@ I'm a **curious**, **detail-oriented**, and **relentless** software developer wh
 - 🕹 Unity (for game development)
 - 🌐 Git, GitHub, APIs, REST
 ---
+![arielvincennao's Stats](https://github-readme-stats.vercel.app/api?username=arielvincennao&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 
+![arielvincennao's Streak](https://github-readme-streak-stats.herokuapp.com/?user=arielvincennao&theme=tokyonight&hide_border=false)
+
+![arielvincennao's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arielvincennao&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+
+---
 ### 📫 Let's connect
 
 - LinkedIn: https://www.linkedin.com/in/ariel-vincennao/
