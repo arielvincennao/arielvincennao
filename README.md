@@ -1,22 +1,17 @@
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 40px; flex-wrap: wrap; max-width: 900px; margin: auto;">
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="left" width="70%">
-        
-<h3>Hi there 👋 I'm Ariel!</h3>
+  <div style="max-width: 480px; text-align: left;">
+    <h3>Hi there 👋 I'm Ariel!</h3>
+    I'm a <strong>curious</strong>, <strong>detail-oriented</strong>, and <strong>relentless</strong> software developer who loves solving problems through code. I enjoy digging deep into complex challenges and transforming them into simple, elegant solutions.
+    <p>💡 I believe that understanding the <em>why</em> behind the code is just as important as making it work.<br>
+    🔍 I often get "hooked" on problems — I can’t let go until I crack them.<br>
+    🔥 I don’t give up easily, and I treat every obstacle as an opportunity to learn and grow.</p>
+  </div>
 
-I'm a **curious**, **detail-oriented**, and **relentless** software developer who loves solving problems through code. I enjoy digging deep into complex challenges and transforming them into simple, elegant solutions.
+  <div>
+    <img src="https://static.vecteezy.com/system/resources/thumbnails/044/428/143/small/cartoon-character-with-the-desk-working-concept-illustration-free-png.png" alt="Ariel working" width="220" />
+  </div>
 
-💡 I believe that understanding the *why* behind the code is just as important as making it work.  
-🔍 I often get "hooked" on problems — I can’t let go until I crack them.  
-🔥 I don’t give up easily, and I treat every obstacle as an opportunity to learn and grow.
-      </td>
-      <td align="center" width="30%">
-       <img src="https://static.vecteezy.com/system/resources/thumbnails/044/428/143/small/cartoon-character-with-the-desk-working-concept-illustration-free-png.png" />
-      </td>
-    </tr>
-  </table>
 </div>
 
 ---
@@ -48,4 +43,3 @@ I'm a **curious**, **detail-oriented**, and **relentless** software developer wh
 
 - [LinkedIn](https://www.linkedin.com/in/ariel-vincennao/)  
 - Email: ariel@pox.me — vincennaoa@gmail.com
-
