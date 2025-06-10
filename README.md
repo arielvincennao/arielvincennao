@@ -13,7 +13,7 @@
 
   <div style="max-width: 500px; margin: auto; text-align: left;">
     <h4>🧰 Tech Stack</h4>
-    <ul style="list-style: none; padding-left: 0;">
+    <ul style="list-style: none; padding-left: 0;"  align="left">
       <li>💻 <strong>Languages:</strong> Java, JavaScript, TypeScript, HTML, CSS, PHP</li>
       <li>🌱 <strong>Frameworks & Databases:</strong> Spring Boot, MySQL, PostgreSQL</li>
       <li>⚛️ <strong>Frontend:</strong> React, Next.js</li>
