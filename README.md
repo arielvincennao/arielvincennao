@@ -25,6 +25,20 @@
 
   <hr style="margin: 30px 0; width: 100%;" />
 
+  <h4>💼 Projects</h4>
+
+  <div style="max-width: 600px; margin: auto; text-align: left;" align="left">
+    <ul style="list-style: none; padding-left: 0;">
+      <li>
+        🔗 <strong><a href="https://github.com/arielvincennao/weather-app" target="_blank">Weather App</a></strong><br>
+        A web application for checking the current weather for any city in the world. Developed with Next.js and Tailwind.
+      </li>
+      <br>
+    </ul>
+  </div>
+
+  <hr style="margin: 30px 0; width: 100%;" />
+
   <table border="0" align="center" style="max-width: 600px; width: 100%; border-collapse: collapse; border: none;">
     <tr>
       <td style="padding-right: 10px; border: none; text-align: center;">
