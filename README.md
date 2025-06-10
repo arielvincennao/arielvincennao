@@ -42,13 +42,6 @@
           style="border: 0;" />
       </td>
     </tr>
-    <tr>
-      <img 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=arielvincennao&theme=tokyonight&hide_border=true" 
-      width="50%" 
-      alt="GitHub Streak" 
-      style="border: 0;" />
-    </tr>
   </table>
 
   <hr style="margin: 30px 0; width: 100%;" />
