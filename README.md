@@ -13,7 +13,7 @@ I'm a **curious**, **detail-oriented**, and **relentless** software developer wh
 🔥 I don’t give up easily, and I treat every obstacle as an opportunity to learn and grow.
       </td>
       <td align="center" width="30%">
-        <img src="https://avatars.githubusercontent.com/u/29075556?v=4" width="150" />
+        <img src="[https://avatars.githubusercontent.com/u/29075556?v=4](https://static.vecteezy.com/system/resources/thumbnails/044/428/143/small/cartoon-character-with-the-desk-working-concept-illustration-free-png.png)" width="150" />
       </td>
     </tr>
   </table>
