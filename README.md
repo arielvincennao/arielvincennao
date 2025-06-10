@@ -29,7 +29,7 @@
     <tr>
       <td style="padding-right: 10px; border: none; text-align: center;">
         <img 
-          src="https://github-readme-stats.vercel.app/api?username=arielvincennao&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" 
+          src="https://github-readme-streak-stats.herokuapp.com/?user=arielvincennao&theme=tokyonight&hide_border=true" 
           height="200" 
           alt="GitHub Stats" 
           style="border: 0;" />
