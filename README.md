@@ -33,12 +33,12 @@
   <div style="display: inline-block; width: 100%; text-align: center;">
     <img 
       src="https://github-readme-stats.vercel.app/api?username=arielvincennao&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" 
-      width="48%" 
+      height="200" 
       style="vertical-align: top; margin-right: 4%;" 
       alt="GitHub Stats" />
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=arielvincennao&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" 
-      width="48%" 
+      height="200" 
       style="vertical-align: top;" 
       alt="Top Languages" />
 
@@ -48,11 +48,12 @@
   <div style="margin-top: 15px; width: 100%;">
     <img 
       src="https://github-readme-streak-stats.herokuapp.com/?user=arielvincennao&theme=tokyonight&hide_border=true" 
-      width="100%" 
+      width="50%" 
       alt="GitHub Streak" />
   </div>
 
 </div>
+
 
 
 
