@@ -11,16 +11,17 @@
 
   <hr style="margin: 30px 0; width: 100%;" />
 
-  <h4>🧰 Tech Stack</h4>
-
-  <ul style="list-style: none; padding-left: 0; max-width: 500px; margin: auto; text-align: left;">
-    <li>💻 <strong>Languages:</strong> Java, JavaScript, TypeScript, HTML, CSS, PHP</li>
-    <li>🌱 <strong>Frameworks & Databases:</strong> Spring Boot, MySQL, PostgreSQL</li>
-    <li>⚛️ <strong>Frontend:</strong> React, Next.js</li>
-    <li>📦 <strong>Backend:</strong> Node.js (learning in progress)</li>
-    <li>🕹 <strong>Game Development:</strong> Unity</li>
-    <li>🌐 <strong>Tools:</strong> Git, GitHub, APIs, REST</li>
-  </ul>
+  <div style="max-width: 500px; margin: auto; text-align: left;">
+    <h4>🧰 Tech Stack</h4>
+    <ul style="list-style: none; padding-left: 0;">
+      <li>💻 <strong>Languages:</strong> Java, JavaScript, TypeScript, HTML, CSS, PHP</li>
+      <li>🌱 <strong>Frameworks & Databases:</strong> Spring Boot, MySQL, PostgreSQL</li>
+      <li>⚛️ <strong>Frontend:</strong> React, Next.js</li>
+      <li>📦 <strong>Backend:</strong> Node.js (learning in progress)</li>
+      <li>🕹 <strong>Game Development:</strong> Unity</li>
+      <li>🌐 <strong>Tools:</strong> Git, GitHub, APIs, REST</li>
+    </ul>
+  </div>
 
   <hr style="margin: 30px 0; width: 100%;" />
 
@@ -30,13 +31,15 @@
         <img 
           src="https://github-readme-stats.vercel.app/api?username=arielvincennao&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" 
           height="200" 
-          alt="GitHub Stats" />
+          alt="GitHub Stats" 
+          style="border: 0;" />
       </td>
       <td style="border: none; text-align: center;">
         <img 
           src="https://github-readme-stats.vercel.app/api/top-langs/?username=arielvincennao&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" 
           height="200" 
-          alt="Top Languages" />
+          alt="Top Languages" 
+          style="border: 0;" />
       </td>
     </tr>
     <tr>
@@ -44,7 +47,8 @@
         <img 
           src="https://github-readme-streak-stats.herokuapp.com/?user=arielvincennao&theme=tokyonight&hide_border=true" 
           width="100%" 
-          alt="GitHub Streak" />
+          alt="GitHub Streak" 
+          style="border: 0;" />
       </td>
     </tr>
   </table>
