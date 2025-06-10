@@ -13,18 +13,18 @@
 
   <h4>🧰 Tech Stack</h4>
 
-  <p style="text-align: left; max-width: 500px; margin: auto;">
-    - 💻 Java, JavaScript, TypeScript, HTML, CSS, PHP<br>
-    - 🌱 Spring Boot, MySQL, PostgreSQL<br>
-    - ⚛️ React, Next.js<br>
-    - 📦 Node.js (learning in progress)<br>
-    - 🕹 Unity (for game development)<br>
-    - 🌐 Git, GitHub, APIs, REST
-  </p>
+  <ul style="list-style: none; padding-left: 0; max-width: 500px; margin: auto; text-align: left;">
+    <li>💻 <strong>Languages:</strong> Java, JavaScript, TypeScript, HTML, CSS, PHP</li>
+    <li>🌱 <strong>Frameworks & Databases:</strong> Spring Boot, MySQL, PostgreSQL</li>
+    <li>⚛️ <strong>Frontend:</strong> React, Next.js</li>
+    <li>📦 <strong>Backend:</strong> Node.js (learning in progress)</li>
+    <li>🕹 <strong>Game Development:</strong> Unity</li>
+    <li>🌐 <strong>Tools:</strong> Git, GitHub, APIs, REST</li>
+  </ul>
 
   <hr style="margin: 30px 0; width: 100%;" />
 
-  <table align="center" style="max-width: 600px; width: 100%; border-collapse: collapse; border: none;">
+  <table border="0" align="center" style="max-width: 600px; width: 100%; border-collapse: collapse; border: none;">
     <tr>
       <td style="padding-right: 10px; border: none; text-align: center;">
         <img 
