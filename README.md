@@ -15,27 +15,30 @@
 </div>
 
 ---
-
-### 🧰 Tech Stack
-
+<div style="align-items: center; justify-content: center;" align="center">
+  <div style="max-width: 480px; text-align: left;>
+    <h3>🧰 Tech Stack</h3> 
 - 💻 Java, JavaScript, TypeScript, HTML, CSS, PHP  
 - 🌱 Spring Boot, MySQL, PostgreSQL  
 - ⚛️ React, Next.js  
 - 📦 Node.js (learning in progress)  
 - 🕹 Unity (for game development)  
 - 🌐 Git, GitHub, APIs, REST  
+  </div>
+</div>
+
 
 ---
 
-<table align="center" style="max-width: 600px; width: 100%; border-collapse: collapse;">
+<table align="center" style="max-width: 600px; width: 100%; border-collapse: collapse; border: none;">
   <tr>
-    <td style="padding-right: 10px;">
+    <td style="padding-right: 10px; border: none; text-align: center;">
       <img 
         src="https://github-readme-stats.vercel.app/api?username=arielvincennao&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" 
         height="200" 
         alt="GitHub Stats" />
     </td>
-    <td>
+    <td style="border: none; text-align: center;">
       <img 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=arielvincennao&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" 
         height="200" 
@@ -43,7 +46,7 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" style="padding-top: 15px;">
+    <td colspan="2" style="padding-top: 15px; border: none; text-align: center;">
       <img 
         src="https://github-readme-streak-stats.herokuapp.com/?user=arielvincennao&theme=tokyonight&hide_border=true" 
         width="100%" 
@@ -51,6 +54,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
