@@ -46,13 +46,6 @@
 
   <table border="0" align="center" style="max-width: 600px; width: 100%; border-collapse: collapse; border: none;">
     <tr>
-      <td style="padding-right: 10px; border: none; text-align: center;">
-        <img 
-          src="https://github-readme-streak-stats.herokuapp.com/?user=arielvincennao&theme=tokyonight&hide_border=true" 
-          height="200" 
-          alt="GitHub Stats" 
-          style="border: 0;" />
-      </td>
       <td style="border: none; text-align: center;">
         <img 
           src="https://github-readme-stats.vercel.app/api/top-langs/?username=arielvincennao&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" 
