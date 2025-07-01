@@ -35,7 +35,7 @@
       </li>
       <br>
       <li>
-        🔗 <strong><a href="https://github.com/arielvincennao/js-password-gen" target="_blank">JS Password Generator</a></strong><br>
+        🔗 <strong><a href="https://github.com/arielvincennao/js-password-gen" target="_blank">JS Password Generator</a></strong>- https://js-password-gen-sage.vercel.app/<br>
         This is a Password Generator project developed using HTML, CSS, and JavaScript. It allows users to create secure and customized passwords based on their specifications.
       </li>
       <br>
