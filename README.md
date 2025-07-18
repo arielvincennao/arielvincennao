@@ -12,16 +12,16 @@
   <hr style="margin: 30px 0; width: 100%;" />
 
   <div style="max-width: 500px; margin: auto; text-align: left;" align="left">
-    <h4>🧰 Tech Stack</h4>
-    <ul style="list-style: none; padding-left: 0;">
-      <li>💻 <strong>Languages:</strong> Java, JavaScript, TypeScript, HTML, CSS, PHP</li>
-      <li>🌱 <strong>Frameworks & Databases:</strong> Spring Boot, MySQL, PostgreSQL</li>
-      <li>⚛️ <strong>Frontend:</strong> React, Next.js</li>
-      <li>📦 <strong>Backend:</strong> Node.js (learning in progress)</li>
-      <li>🕹 <strong>Game Development:</strong> Unity</li>
-      <li>🌐 <strong>Tools:</strong> Git, GitHub, APIs, REST</li>
-    </ul>
-  </div>
+  <h4>👨‍💻 Tech Stack</h4>
+  <ul style="list-style: none; padding-left: 0;">
+    <li>💻 <strong>Languages:</strong> Java, JavaScript, TypeScript, PHP, HTML, CSS</li>
+    <li>⚙️ <strong>Frameworks & Libraries:</strong> Spring Boot, React, Next.js, Bootstrap, Tailwind CSS</li>
+    <li>🗄️ <strong>Databases:</strong> MySQL, PostgreSQL</li>
+    <li>📦 <strong>Backend:</strong> Node.js <em>(learning in progress)</em></li>
+    <li>🎮 <strong>Game Development:</strong> Unity</li>
+    <li>🧰 <strong>Tools & IDEs:</strong> Git, GitHub, REST APIs, Visual Studio, Visual Studio Code</li>
+  </ul>
+</div>
 
   <hr style="margin: 30px 0; width: 100%; text-align: left;" align="left" />
 
