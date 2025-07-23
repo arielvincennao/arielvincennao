@@ -19,7 +19,7 @@
     <li>🗄️ <strong>Databases:</strong> MySQL, PostgreSQL</li>
     <li>📦 <strong>Backend:</strong> Node.js <em>(learning in progress)</em></li>
     <li>🎮 <strong>Game Development:</strong> Unity</li>
-    <li>🧰 <strong>Tools & IDEs:</strong> Git, GitHub, REST APIs, Visual Studio, Visual Studio Code</li>
+    <li>🧰 <strong>Tools & IDEs:</strong> Git, GitHub, REST APIs, Visual Studio Code</li>
   </ul>
 </div>
 
