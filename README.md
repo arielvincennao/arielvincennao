@@ -33,6 +33,7 @@
         🔗 <strong><a href="https://github.com/arielvincennao/calculadora-jubilacion-ar" target="_blank">Retirement Calculator AR</a></strong> - 🔴 LIVE : https://calculadora-jubilacion-ar.vercel.app/<br>
         An interactive web platform (currently in development) to help Argentinian workers simulate and plan their retirement. Users can save personal salary data, configure variables like UD and COE, and run multiple calculations with comparison and history tracking. Built with Next.js and Tailwind using Supabase.
       </li>
+      <br>
       <li>
         🔗 <strong><a href="https://github.com/arielvincennao/weather-app" target="_blank">Weather App</a></strong> - 🔴 LIVE : https://weather-app-sigma-ten-74.vercel.app/<br>
         A web application for checking the current weather for any city in the world. Developed with Next.js and Tailwind.
