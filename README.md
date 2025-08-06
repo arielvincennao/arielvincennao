@@ -30,7 +30,7 @@
   <div style="max-width: 600px; margin: auto; text-align: left;" align="left">
     <ul style="list-style: none; padding-left: 0;">
       <li>
-        🔗 <strong> -> <a href="https://github.com/arielvincennao/descendify-app" target="_blank">Descendify App</a></strong> - 🔴 LIVE : - - -/<br>
+        🔗 <strong> -> <a href="https://github.com/arielvincennao/descendify-app" target="_blank">Descendify App</a></strong> - 🔴 LIVE : - - - <br>
         A collaborative platform (currently in development) for building and preserving your family tree. Users can add relatives with detailed information and photos, define relationships, and visually explore their ancestry. Designed to store family history for future generations, with options to share trees and collaborate with others.           Developed with React (Next.js), Tailwind CSS, and Supabase.
       </li>
       </li>
