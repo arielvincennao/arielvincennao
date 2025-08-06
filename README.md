@@ -42,7 +42,7 @@
       <br>
       <li>
         🔗 <strong> -> <a href="https://github.com/arielvincennao/weather-app" target="_blank">Weather App</a></strong> - 🔴 LIVE : https://weather-app-sigma-ten-74.vercel.app/<br>
-        A web application for checking the current weather for any city in the world. Developed with React (Next.js), Tailwind CSS, and Supabase.
+        A basic web application for checking the current weather for any city in the world. Developed with React (Next.js), Tailwind CSS, and Supabase.
       </li>
       <br>
       <li>
