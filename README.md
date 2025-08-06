@@ -25,7 +25,7 @@
 
   <hr style="margin: 30px 0; width: 100%; text-align: left;" align="left" />
 
-  <h4 align="left">💼 Projects</h4>
+  <h4 align="left">💼 Personal Projects</h4>
 
   <div style="max-width: 600px; margin: auto; text-align: left;" align="left">
     <ul style="list-style: none; padding-left: 0;">
