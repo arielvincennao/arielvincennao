@@ -36,6 +36,11 @@
       </li>
       <br>
       <li>
+        🔗 <strong> -> <a href="https://github.com/arielvincennao/spoiler-five-inc-app" target="_blank">Spoiler Five Inc</a></strong> - 🔴 LIVE : https://spoiler-five-inc-app.vercel.app/index.html<br>
+        Spoiler Five Inc is an app developed for a university project about user interfaces and user experience, made purely and exclusively with HTML, CSS, and JS. Inspired by well-known music applications, it includes views for /login, /my-account, /plans, /help, /search-results, /my-playlist, and /playlist-details.
+      </li>
+      <br>
+      <li>
         🔗 <strong> -> <a href="https://github.com/arielvincennao/calculadora-jubilacion-ar" target="_blank">Retirement Calculator AR</a></strong> - 🔴 LIVE : https://calculadora-jubilacion-ar.vercel.app/<br>
         An interactive web platform (currently in development) to help Argentinian workers simulate and plan their retirement. Users can save personal salary data, configure variables like UD and COE, and run multiple calculations with comparison and history tracking. Developed with React (Next.js), Tailwind CSS, and Supabase.
       </li>
