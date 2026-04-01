@@ -58,19 +58,7 @@
     </ul>
   </div>
 
-  <hr style="margin: 30px 0; width: 100%;" />
-
-  <table border="0" align="center" style="max-width: 600px; width: 100%; border-collapse: collapse; border: none;">
-    <tr>
-      <td style="border: none; text-align: center;">
-        <img 
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=arielvincennao&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" 
-          height="200" 
-          alt="Top Languages" 
-          style="border: 0;" />
-      </td>
-    </tr>
-  </table>
+  
 
   <hr style="margin: 30px 0; width: 100%;" />
 
