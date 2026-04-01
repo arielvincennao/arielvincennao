@@ -65,7 +65,7 @@
   <h4>📫 Let's connect</h4>
   <p>
     - <a href="https://www.linkedin.com/in/ariel-vincennao/" target="_blank" rel="noopener noreferrer">LinkedIn</a><br>
-    - Email: <a href="mailto:ariel@pox.me">ariel@pox.me</a> — <a href="mailto:vincennaoa@gmail.com">vincennaoa@gmail.com</a>
+    - <a href="mailto:vincennaoa@gmail.com">vincennaoa@gmail.com</a>
   </p>
 
 </div>
