@@ -4,9 +4,9 @@
 
   <p style="max-width: 500px; text-align: left; margin: auto;">
     I'm a <strong>curious</strong>, <strong>detail-oriented</strong>, and <strong>relentless</strong> software developer who loves solving problems through code. I enjoy digging deep into complex challenges and transforming them into simple, elegant solutions.<br><br>
-    💡 I believe that understanding the <em>why</em> behind the code is just as important as making it work.<br>
-    🔍 I often get "hooked" on problems. I can’t let go until I crack them.<br>
-    🔥 I don’t give up easily, and I treat every obstacle as an opportunity to learn and grow.
+    - I believe that understanding the <em>why</em> behind the code is just as important as making it work.<br>
+    - I often get "hooked" on problems. I can’t let go until I crack them.<br>
+    - I don’t give up easily, and I treat every obstacle as an opportunity to learn and grow.
   </p>
 
   <hr style="margin: 30px 0; width: 100%;" />
